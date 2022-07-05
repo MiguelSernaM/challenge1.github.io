@@ -111,7 +111,7 @@ h1 {
 
     }
     .main__article-img{
-        content: url("/images/image-product-desktop.jpg");
+        content: url("image-product-desktop.jpg");
         float: left;
         margin-right: 30px;
         border-top-right-radius: 0%;
